@@ -3,6 +3,7 @@ Attempt to practice Python by recreating Floppy Bird in Logo/Turtle Module
 
 
 Purpose of the project:
+
 Leaning Python by applying the programming concepts I have learned so far including the following:
   - Python basics and control flows
   - OOP
